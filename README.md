@@ -7,7 +7,7 @@ There are several properties and methods that you can use to create prompts. Dat
 ## ⌛️ Installation
 
 ```bash
-pip install prompt_gen
+pip install prompt-gen
 ```
 
 ## 🎛 API
